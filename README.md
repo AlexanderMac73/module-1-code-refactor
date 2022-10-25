@@ -10,11 +10,7 @@ N/A
 
 ## Usage
 
-To view open the index.html and it will display the page as in the example below. Right-click to inspect and view the refactored changes.
-
-```md
-![example screenshot](./assets/images/example.png)
-```
+To view open the index.html and it will display the pag. Right-click to inspect and view the refactored changes.
 
 ## Credits
 
